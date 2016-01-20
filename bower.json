@@ -2,7 +2,7 @@
   "name": "cryptojs-md5",
   "main": "cryptojs-md5.js",
   "homepage": "https://github.com/damasio34/cryptojs-md5",
-  "description": "Pacote da biblioteca CryptoJs#MD5 (https://code.google.com/p/crypto-js/#MD5).",
+  "description": "Pacote da biblioteca CryptoJS v3.1.2#MD5 (https://code.google.com/p/crypto-js/#MD5).",
   "moduleType": [],
   "keywords": [
     "cryptojs",
